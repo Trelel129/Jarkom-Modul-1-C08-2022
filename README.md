@@ -124,5 +124,6 @@ menggunakan file yang telah disimpan, decrypt code dengan wsl
 openssl des3 -d -in axe.des3 -out normal.txt
 ```
 ![image](https://user-images.githubusercontent.com/89815856/192089177-58d053e3-eef8-4519-8f01-094d3cc6556a.png)
-```JaRkOm2022{8uK4N_CtF_k0k_h3h3h3}
+```
+JaRkOm2022{8uK4N_CtF_k0k_h3h3h3}
 ```

@@ -32,7 +32,14 @@ sehingga mendapatkan hasil
 
 ![Screenshot (1466)](https://user-images.githubusercontent.com/103355300/192079244-d2c9e174-1190-4dd9-83e5-8e42a16f5413.png)
 
-Selanjutnya "follow tcp stream" dan didapatkan link sebagai berikut : http://monta.if.its.ac.id/index.php/topik/detailTopik/194 
+Selanjutnya "follow tcp stream" dan didapatkan link sebagai berikut : http://monta.if.its.ac.id/index.php/topik/lihatTopik/0/5/40
+![image](https://user-images.githubusercontent.com/89815856/192083608-550f8e97-ba65-4217-8d05-6848b15500e8.png)
+sehingga mendapatkan hasil seperti ini :
+![image](https://user-images.githubusercontent.com/89815856/192083573-74102eb3-bcfe-49c2-b4c4-439b42addde1.png)
+
+Dengan ditemukannya judul-judul TA seperti yang terlampir di atas
+
+Setelah itu, "follow tcp stream" dan didapatkan link sebagai berikut : http://monta.if.its.ac.id/index.php/topik/detailTopik/194 
 ![Screenshot (1467)](https://user-images.githubusercontent.com/103355300/192079405-d04102fe-1edf-4bdd-a932-bc4aa3a6190f.png)
 sehingga mendapatkan hasil seperti ini :
 ![WhatsApp Image 2022-09-19 at 21 36 54](https://user-images.githubusercontent.com/103355300/192079579-ec03d9f7-2572-4b4e-b977-094ce96db436.jpeg)

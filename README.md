@@ -6,7 +6,7 @@
 2. 5025201204 - Moh Akmal Ali Dzikri
 3. 5025201214 - Ferry Nur Alfian Eka Putra
 
-Soal
+# Soal
 ## 1. Mahasiswa diminta untuk mencari informasi dari file `.pcap` yang diberikan. Tujuan pencarian tersebut adalah untuk menemukan web server yang digunakan pada "monta.if.its.ac.id" .
 
 Untuk itu, diterapkan filter yang dapat menampilkan semua paket dengan protokol HTTP dan host `monta.if.its.ac.id` .
@@ -105,11 +105,12 @@ clue yang didapatkan :
 
 ![image](https://user-images.githubusercontent.com/89815856/192088601-a925b836-4f6d-4a61-9134-7c6cdd93b3c8.png)
 
-clue yang didapatkan :
-- kotaknya dihilangin
-- Mau di dalem atau di luar sama aja, mending diilangin --> tidak menggunakan nama marga (karena marganya sama)
-
 ![image](https://user-images.githubusercontent.com/89815856/192088837-3377f466-d9fc-4f63-9f7b-244d6bc62f08.png)
+
+clue yang didapatkan :
+- ngga perlu mikir hal yang berbeda
+kesimpulan :
+- satu-satunya yang sama diantara kelimanya adalah nama marga, yaitu "nakano"
 
 ## 9. Terdapat laporan adanya pertukaran file yang dilakukan oleh kedua mahasiswa dalam percakapan yang diperoleh, carilah file yang dimaksud! Untuk memudahkan laporan kepada atasan, beri nama file yang ditemukan dengan format [nama_kelompok].des3 dan simpan output file dengan nama “flag.txt”.
 sama seperti nomor 8 , ditemukan isi file saltnya
@@ -127,3 +128,7 @@ openssl des3 -d -in axe.des3 -out normal.txt
 ```
 JaRkOm2022{8uK4N_CtF_k0k_h3h3h3}
 ```
+
+# Kendala
+ - nomor 2, tidak yakin dengan maksud soal (antara topik TA yang dilihat dan judul TA yang dilihat)
+ - nomor 10, awalnya tidak see as raw dan tidak save as des3
